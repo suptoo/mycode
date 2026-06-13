@@ -1,0 +1,2 @@
+# mycode
+try
